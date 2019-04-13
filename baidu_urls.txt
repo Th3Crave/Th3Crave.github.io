@@ -1,3 +1,5 @@
+https://blog.frozenwind.online/2019/04/13/电脑将在一分钟后重启/
+https://blog.frozenwind.online/2019/04/12/Windows下迁移指定MySQL数据库至Linux/
 https://blog.frozenwind.online/2019/04/09/sql语句的查询——子查询、外连接/
 https://blog.frozenwind.online/2019/04/08/本地Windows操作系统连接Linux实例（阿里云ECS）/
 https://blog.frozenwind.online/2019/04/04/Blue-Butterfly/
