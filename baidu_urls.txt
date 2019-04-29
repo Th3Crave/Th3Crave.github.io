@@ -1,4 +1,5 @@
 https://blog.frozenwind.online/2019/04/29/和小北说的999句话/
+https://blog.frozenwind.online/2019/04/29/数据结构与算法——链表/
 https://blog.frozenwind.online/2019/04/29/落寞诗人/
 https://blog.frozenwind.online/2019/04/28/深入理解JVM——OutOfMemoryError异常/
 https://blog.frozenwind.online/2019/04/28/深入理解JVM——对象访问/
