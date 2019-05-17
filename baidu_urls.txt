@@ -1,3 +1,6 @@
+https://blog.frozenwind.online/2019/05/17/java网络编程/
+https://blog.frozenwind.online/2019/05/17/java基础知识/
+https://blog.frozenwind.online/2019/05/17/java并发编程/
 https://blog.frozenwind.online/2019/05/15/基于SpringBoot的校园商铺平台/
 https://blog.frozenwind.online/2019/05/15/深入理解JVM——java与线程/
 https://blog.frozenwind.online/2019/05/15/深入理解JVM——java内存模型/
@@ -29,7 +32,7 @@ https://blog.frozenwind.online/2019/04/18/spring初体验/
 https://blog.frozenwind.online/2019/04/13/面向对象基础/
 https://blog.frozenwind.online/2019/04/13/电脑将在一分钟后重启/
 https://blog.frozenwind.online/2019/04/12/Windows下迁移指定MySQL数据库至Linux/
-https://blog.frozenwind.online/2019/04/09/sql语句的查询——子查询、外连接/
+https://blog.frozenwind.online/2019/04/09/java与数据库知识/
 https://blog.frozenwind.online/2019/04/08/本地Windows操作系统连接Linux实例（阿里云ECS）/
 https://blog.frozenwind.online/2019/04/04/Blue-Butterfly/
 https://blog.frozenwind.online/2019/03/31/doGet和doPost/
