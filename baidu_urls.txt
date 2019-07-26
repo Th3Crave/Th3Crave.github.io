@@ -1,4 +1,5 @@
-https://blog.frozenwind.online/2019/06/11/和小北说的999句话/
+https://blog.frozenwind.online/2019/07/24/java与数据库知识/
+https://blog.frozenwind.online/2019/06/12/和小北说的999句话/
 https://blog.frozenwind.online/2019/05/29/数据结构与算法——树/
 https://blog.frozenwind.online/2019/05/28/落寞诗人/
 https://blog.frozenwind.online/2019/05/26/捞月亮的人/
@@ -34,7 +35,6 @@ https://blog.frozenwind.online/2019/04/18/spring初体验/
 https://blog.frozenwind.online/2019/04/13/面向对象基础/
 https://blog.frozenwind.online/2019/04/13/电脑将在一分钟后重启/
 https://blog.frozenwind.online/2019/04/12/Windows下迁移指定MySQL数据库至Linux/
-https://blog.frozenwind.online/2019/04/09/java与数据库知识/
 https://blog.frozenwind.online/2019/04/08/本地Windows操作系统连接Linux实例（阿里云ECS）/
 https://blog.frozenwind.online/2019/04/04/Blue-Butterfly/
 https://blog.frozenwind.online/2019/03/31/doGet和doPost/
